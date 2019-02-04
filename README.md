@@ -1,12 +1,6 @@
 # Audio-Emotion-Recognition
 Emotion recognition api extract basic emotions, intensity, &amp; sentiment from the audio file. It can be used with DeepAffects Speaker Identification API. 
 
----
-id: emotion-recognition-api
-title: Emotion Recognition Api
-sidebar_label: Emotion Recognition Api
----
-
 ### POST Request
 
 `POST https://proxy.api.deepaffects.com/audio/generic/api/v2/sync/recognise_emotion`
